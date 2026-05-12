@@ -1,11 +1,8 @@
 {
   "expo": {
     "name": "Brainrush",
-    "slug": "brainrush",
+    "slug": "brainrush-wuu5qkqtaaal4q7pgio57",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "platforms": ["android"],
-    "sdkVersion": "51.0.0",
 
     "android": {
       "package": "com.brainrush.app"
@@ -13,7 +10,7 @@
 
     "extra": {
       "eas": {
-        "projectId": "97937459-4317-407a-9163-ed51678ebe16"
+        "projectId": "5a130682-be5a-47f7-bbfb-d0c977c02984"
       }
     }
   }
